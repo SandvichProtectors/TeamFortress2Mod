@@ -14,5 +14,6 @@ public static final String SERVER_PROXY_CLASS = "com.github.sandvichprotectors.t
     
 public static final String CLIENT_PROXY_CLASS = "com.github.sandvichprotectors.teamfortress2.ClientProxy";
 
+public static final String MCVersion = "MCVersion 1.6.4";
 
 }
